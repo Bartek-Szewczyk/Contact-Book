@@ -1,0 +1,10 @@
+C:\Users\48601\Desktop\Contact\Contact\bin\Debug\Contact.exe.config
+C:\Users\48601\Desktop\Contact\Contact\bin\Debug\Contact.exe
+C:\Users\48601\Desktop\Contact\Contact\bin\Debug\Contact.pdb
+C:\Users\48601\Desktop\Contact\Contact\obj\Debug\Contact.csprojAssemblyReference.cache
+C:\Users\48601\Desktop\Contact\Contact\obj\Debug\Contact.Econtact.resources
+C:\Users\48601\Desktop\Contact\Contact\obj\Debug\Contact.Properties.Resources.resources
+C:\Users\48601\Desktop\Contact\Contact\obj\Debug\Contact.csproj.GenerateResource.cache
+C:\Users\48601\Desktop\Contact\Contact\obj\Debug\Contact.csproj.CoreCompileInputs.cache
+C:\Users\48601\Desktop\Contact\Contact\obj\Debug\Contact.exe
+C:\Users\48601\Desktop\Contact\Contact\obj\Debug\Contact.pdb
